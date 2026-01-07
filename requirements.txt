@@ -1,2 +1,2 @@
-pytz==2025.2
-urllib3==2.6.2
+pandas
+requests
